@@ -1,5 +1,5 @@
 /* 
-A p5.js sketches created on the www.openprocessing.org platform. 
+A p5.js sketch created on the www.openprocessing.org platform. 
 Link to sketch
 https://www.openprocessing.org/sketch/929627
 My profile link 
